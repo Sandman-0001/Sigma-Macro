@@ -1,3 +1,3 @@
 # Sigma-Macro
-Bss mobile macro
-By Sand and Gef
+Bss mobile macro,
+by Sand and Geff
